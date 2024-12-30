@@ -1,4 +1,4 @@
-module maglev
+module github.com/zilgopy/maglev
 
 go 1.23.4
 
